@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranaya%20Khadgi%20Shahi&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
+!![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=नमस्कारम्&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Pranaya%20Khadgi%20Shahi&descSize=20&descAlignY=55)
 
 <div align="center">
   
