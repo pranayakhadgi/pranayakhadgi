@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Pranaya Khadgi Shahi
+# Helllloooo, I'm Pranaya Khadgi Shahi
 
 ### Computer Science @ Truman State University | Full-Stack Developer | AI Enthusiast
 
