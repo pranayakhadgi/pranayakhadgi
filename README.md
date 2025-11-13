@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=नमस्कारम्&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=&descSize=20&descAlignY=55)
-
 <div align="center">
   
 # 👋 Hi, I'm Pranaya Khadgi Shahi
@@ -18,13 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a sophomore at Truman State University passionate about building full-stack applications that solve real problems. From AI-powered journaling apps to immersive 3D web experiences, I love turning complex ideas into working software.
+I'm a sophomore/rising junior at Truman State University passionate about building full-stack web applications that solve real problems. I love turning complex ideas into a beautiful and creative software (that works obviously).
 
 **Quick Stats:**
 - 🎯 **GPA:** 3.65/4.0
 - 🏆 **Hackathon Wins:** 1st Place TruHacks 2024 (Beginners), Top Performer HackMidwest 2025
-- 💼 **Leadership:** GDSC Treasurer | Peer Tutor for 12 students
-- 📚 **Currently Learning:** Advanced Three.js, Cloud Architecture, Enterprise Systems
+- 💼 **Leadership:** GDSC@TSU Treasurer | Peer Tutor for 12 students | Resident Advisor (Truman State University - Residence Life) | President (Namaste Nepal @Truman State) |
+- 📚 **Currently Learning:** Advanced Three.js, Cloud Architecture, Enterprise Systems, More of Data Structures and Algorithms
 
 ---
 
@@ -197,4 +195,3 @@ I'm actively seeking **Summer 2026 Software Engineering Internships**!
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
