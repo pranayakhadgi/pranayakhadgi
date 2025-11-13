@@ -1,4 +1,4 @@
-!![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=नमस्कारम्&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=null&descSize=20&descAlignY=55)
+!![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=नमस्कारम्&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=&descSize=20&descAlignY=55)
 
 <div align="center">
   
