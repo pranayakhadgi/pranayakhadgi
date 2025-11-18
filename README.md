@@ -14,15 +14,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a sophomore/rising junior at Truman State University passionate about building full-stack web applications that solve real problems. I love turning complex ideas into a beautiful and creative software (that works obviously).
 
 **Quick Stats:**
-- 🎯 **GPA:** 3.65/4.0
-- 🏆 **Hackathon Wins:** 1st Place TruHacks 2024 (Beginners), Top Performer HackMidwest 2025
-- 💼 **Leadership:** GDSC@TSU Treasurer | Peer Tutor for 12 students | Resident Advisor (Truman State University - Residence Life) | President (Namaste Nepal @Truman State) |
-- 📚 **Currently Learning:** Advanced Three.js, Cloud Architecture, Enterprise Systems, More of Data Structures and Algorithms
+-  **GPA:** 3.65/4.0
+-  **Hackathon Wins:** 1st Place TruHacks 2024 (Beginners), Top Performer HackMidwest 2025
+-  **Leadership:** GDSC@TSU Treasurer | Peer Tutor for 12 students | Resident Advisor (Truman State University - Residence Life) | President (Namaste Nepal @Truman State) |
+-  **Currently Learning:** Advanced Three.js, Cloud Architecture, Enterprise Systems, More of Data Structures and Algorithms
 
 ---
 
@@ -60,9 +60,9 @@ I'm a sophomore/rising junior at Truman State University passionate about buildi
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🧠 [Memory Garden](https://github.com/pranayakhadgi/memory-garden) 
+###  [Memory Garden](https://github.com/pranayakhadgi/memory-garden) 
 **AI-Powered Journaling App | HackMidwest 2025**
 
 Competed among **325+ participants** with an intelligent journaling platform featuring emotional coaching.
@@ -70,45 +70,45 @@ Competed among **325+ participants** with an intelligent journaling platform fea
 **Tech Stack:** `Node.js` `Express` `MongoDB` `OpenAI GPT-4` `JWT` `React`
 
 **Key Features:**
-- 🤖 Real-time AI emotional analysis and supportive responses
-- 🔐 Secure JWT-based authentication system
-- 📊 Mood tracking with session summarization
-- 🎨 Plant-themed visual interface with growth metaphors
+-  Real-time AI emotional analysis and supportive responses
+-  Secure JWT-based authentication system
+-  Mood tracking with session summarization
+-  Plant-themed visual interface with growth metaphors
 
 ---
 
-### 🌐 [Truman in the Virtual](https://github.com/pranayakhadgi/truman-virtual)
+###  [Truman in the Virtual](https://github.com/pranayakhadgi/truman-virtual)
 **Immersive 3D Campus Tour | Research Project with Dr. Kafi Rahman**
 
 **Tech Stack:** `React 18` `Three.js` `Node.js` `PostgreSQL` `WebGL`
 
 **Key Achievements:**
-- 🎮 Browser-based 3D rendering with interactive navigation
-- 📱 Cross-platform compatibility across 5+ device types
-- ⚙️ Reduced deployment complexity by **40%**
+-  Browser-based 3D rendering with interactive navigation
+-  Cross-platform compatibility across 5+ device types
+-  Reduced deployment complexity by **40%**
 
 ---
 
-### ♻️ [WasteNot](https://github.com/pranayakhadgi/wastenot)
+###  [WasteNot](https://github.com/pranayakhadgi/wastenot)
 **Food Sharing Platform | Boeing x TruHacks 2025**
 
 **Tech Stack:** `React` `TypeScript` `Node.js` `PostgreSQL`
 
 **Responsibilities:**
-- 🗄️ Designed PostgreSQL schema for food listings
-- 🔌 Implemented REST APIs
-- 🎤 Demoed to **50+ attendees**
+-  Designed PostgreSQL schema for food listings
+-  Implemented REST APIs
+-  Demoed to **50+ attendees**
 
 ---
 
-### 🌍 [Carbon Footprint Calculator](https://github.com/pranayakhadgi/carbon-calculator)
-**🥇 1st Place TruHacks 2024 (Beginners)**
+###  [Carbon Footprint Calculator](https://github.com/pranayakhadgi/carbon-calculator)
+** 1st Place TruHacks 2024 (Beginners)**
 
 **Tech Stack:** `Python` `Matplotlib` `Google Maps Geocoding API`
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -122,19 +122,19 @@ Competed among **325+ participants** with an intelligent journaling platform fea
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 | Achievement | Details | Year |
 |------------|---------|------|
-| 🥇 **1st Place** | TruHacks 2024 - Beginners Category | 2024 |
-| 🎯 **Top Performer** | HackMidwest 2025 - 325+ participants | 2025 |
-| 💼 **GDSC Treasurer** | Manage $2,000+ budget | 2025 |
-| 🎓 **Academic Excellence** | 3.65 GPA, Blue Key Scholarship | 2024-2025 |
-| 👨‍🏫 **Peer Tutor** | Tutored 12 students in Java | 2024-2025 |
+|  **1st Place** | TruHacks 2024 - Beginners Category | 2024 |
+|  **Top Performer** | HackMidwest 2025 - 325+ participants | 2025 |
+|  **GDSC Treasurer** | Manage $2,000+ budget | 2025 |
+|  **Academic Excellence** | 3.65 GPA, Blue Key Scholarship | 2024-2025 |
+|  **Peer Tutor** | Tutored 12 students in Java | 2024-2025 |
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science in Computer Science**  
 *Truman State University* | Expected Graduation: Dec 2027 | GPA: 3.65/4.0
@@ -146,36 +146,36 @@ Competed among **325+ participants** with an intelligent journaling platform fea
 - Calculus I-III
 
 **Certifications:**
-- 🌩️ Google Cloud Digital Leader (Foundational Training Completed)
+-  Google Cloud Digital Leader (Foundational Training Completed)
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### 💰 Treasurer | Google Developer Student Club
+###  Treasurer | Google Developer Student Club
 *Jan 2025 - Present*
 - Manage ~$2,000 annual event budget
 - Coordinate vendor and industry partnerships
 
-### 👨‍🏫 Academic Peer Tutor | Truman State University
+###  Academic Peer Tutor | Truman State University
 *Aug 2024 - May 2025*
 - Tutored 12 students in Java and OOP concepts
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm actively seeking **Summer 2026 Software Engineering Internships**!
 
-- 📧 Email: [pranaya.khadgi99@gmail.com](mailto:pranaya.khadgi99@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/pranaya-khadgi-shahi](https://linkedin.com/in/pranaya-khadgi-shahi)
-- 📱 Phone: +1 (919) 224-6707
+-  Email: [pranaya.khadgi99@gmail.com](mailto:pranaya.khadgi99@gmail.com)
+-  LinkedIn: [linkedin.com/in/pranaya-khadgi-shahi](https://linkedin.com/in/pranaya-khadgi-shahi)
+-  Phone: +1 (919) 224-6707
 
 ---
 
 <div align="center">
 
-### 💡 "Good code is its own best documentation" - Steve McConnell
+###  "Good code is its own best documentation" - Steve McConnell
 
 **Thanks for visiting my profile!** ⭐ **Feel free to explore my repositories!**
 
@@ -185,7 +185,7 @@ I'm actively seeking **Summer 2026 Software Engineering Internships**!
 
 ---
 
-## 🐍 My GitHub Contributions
+##  My GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake-dark.svg">
