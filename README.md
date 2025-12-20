@@ -2,13 +2,13 @@
   
 # Helllloooo, I'm Pranaya Khadgi Shahi
 
-### Computer Science @ Truman State University | Full-Stack Developer | AI Enthusiast
+### Computer Science @ Truman State University | Upcoming Intern @ DP World | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaya-khadgi-shahi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaya.khadgi99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranayakhadgi)
 
-**Building solutions that matter** | **325+ competitors at HackMidwest 2025** | **1st Place TruHacks 2024**
+**I survived Dr. Rahman's CS260 with an A** | **I squatted 225 on an empty stomach once (almost passed out)** |**I play guitar and sing**
 
 </div>
 
@@ -21,7 +21,7 @@ I'm a CS junior at Truman State University. I love learning.
 **Quick Stats:**
 -  **GPA:** 3.77/4.0
 -  **Hackathon:** TruHacks 2024 (First Prize Beginners), Truhacks x Boeing 2025, HackMidwest 2025
--  **Leadership:** Upcoming Intern @DP World| GDSC@TSU Treasurer| ACM@TSU Treasurer | Former CS Peer Tutor | Resident Advisor (Truman State University - Residence Life) | President (Namaste Nepal @Truman State) | Beatboxer (Sweet Nothings A Cappella @ TSU)
+-  **Leadership:** GDSC@TSU Treasurer| ACM@TSU Treasurer | Former CS Peer Tutor | Resident Advisor (Truman State University - Residence Life) | President (Namaste Nepal @Truman State) | Beatboxer (Sweet Nothings A Cappella @ TSU)
 -  **Currently Learning:** More of Data Structures and Algorithms, Asynchronous Javascript, n8n implementation, Video Gaming Development(upcoming)
 
 ---
