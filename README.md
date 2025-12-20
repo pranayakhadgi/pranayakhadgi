@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a CS junior at Truman State University. I love learning.
+I'm a CS junior at Truman State University. I love it!
 
 **Quick Stats:**
 -  **GPA:** 3.77/4.0
