@@ -1,6 +1,6 @@
 <div align="center">
   
-# Helllloooo, I'm Pranaya Khadgi Shahi
+# Helllloooo, I'm Pranaya (you can call me Pantu)
 
 ### Computer Science @ Truman State University | Upcoming Intern @ DP World | 
 
