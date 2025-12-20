@@ -16,13 +16,13 @@
 
 ## About Me
 
-I'm a sophomore/rising junior at Truman State University passionate about building full-stack web applications that solve real problems. I love turning complex ideas into a beautiful and creative software (that works obviously).
+I'm a CS junior at Truman State University. I love learning.
 
 **Quick Stats:**
--  **GPA:** 3.65/4.0
--  **Hackathon Wins:** 1st Place TruHacks 2024 (Beginners), Top Performer HackMidwest 2025
--  **Leadership:** GDSC@TSU Treasurer | Peer Tutor for 12 students | Resident Advisor (Truman State University - Residence Life) | President (Namaste Nepal @Truman State) |
--  **Currently Learning:** Advanced Three.js, Cloud Architecture, Enterprise Systems, More of Data Structures and Algorithms
+-  **GPA:** 3.77/4.0
+-  **Hackathon:** TruHacks 2024 (First Prize Beginners), Truhacks x Boeing 2025, HackMidwest 2025
+-  **Leadership:** Upcoming Intern @DP World| GDSC@TSU Treasurer| ACM@TSU Treasurer | Former CS Peer Tutor | Resident Advisor (Truman State University - Residence Life) | President (Namaste Nepal @Truman State) | Beatboxer (Sweet Nothings A Cappella @ TSU)
+-  **Currently Learning:** More of Data Structures and Algorithms, Asynchronous Javascript, n8n implementation, Video Gaming Development(upcoming)
 
 ---
 
@@ -129,6 +129,7 @@ Competed among **325+ participants** with an intelligent journaling platform fea
 |  **1st Place** | TruHacks 2024 - Beginners Category | 2024 |
 |  **Top Performer** | HackMidwest 2025 - 325+ participants | 2025 |
 |  **GDSC Treasurer** | Manage $2,000+ budget | 2025 |
+|  **ACM Treasurer**  | upcoming.. | 2025 |
 |  **Academic Excellence** | 3.65 GPA, Blue Key Scholarship | 2024-2025 |
 |  **Peer Tutor** | Tutored 12 students in Java | 2024-2025 |
 
@@ -137,20 +138,27 @@ Competed among **325+ participants** with an intelligent journaling platform fea
 ##  Education
 
 **Bachelor of Science in Computer Science**  
-*Truman State University* | Expected Graduation: Dec 2027 | GPA: 3.65/4.0
+*Truman State University* | Expected Graduation: Dec 2027 | GPA: 3.77/4.0
 
 **Relevant Coursework:**
 - Foundations of CS I & II (Java)
 - Object-Oriented Programming (C#)
 - Data Structures & Algorithms
 - Calculus I-III
+- Ordinary Differential Equations
+- Intro to Physics-I
 
 **Certifications:**
 -  Google Cloud Digital Leader (Foundational Training Completed)
+-  CodeWithMosh Completion (Data Structures & Algorithms)
 
 ---
 
 ##  Experience
+
+### Treasurer | Association for Computing Machinery
+*November 2025 - Present*
+- Upcoming...
 
 ###  Treasurer | Google Developer Student Club
 *Jan 2025 - Present*
@@ -164,9 +172,6 @@ Competed among **325+ participants** with an intelligent journaling platform fea
 ---
 
 ##  Let's Connect!
-
-I'm actively seeking **Summer 2026 Software Engineering Internships**!
-
 -  Email: [pranaya.khadgi99@gmail.com](mailto:pranaya.khadgi99@gmail.com)
 -  LinkedIn: [linkedin.com/in/pranaya-khadgi-shahi](https://linkedin.com/in/pranaya-khadgi-shahi)
 -  Phone: +1 (919) 224-6707
@@ -177,7 +182,7 @@ I'm actively seeking **Summer 2026 Software Engineering Internships**!
 
 ###  "Good code is its own best documentation" - Steve McConnell
 
-**Thanks for visiting my profile!** ⭐ **Feel free to explore my repositories!**
+**Thanks for visiting my profile**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranayakhadgi&color=blueviolet&style=flat-square)
 
