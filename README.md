@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaya.khadgi99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranayakhadgi)
 
-**I survived Dr. Rahman's CS260 with an A** | **I squatted 225 on an empty stomach once (almost passed out)** |**I play guitar and sing**
+**Survived Dr. Rahman's CS260 with an A** | **Squatted 225 on an empty stomach once** |**Plays guitar and sings**
 
 </div>
 
