@@ -108,18 +108,6 @@ Competed among **325+ participants** with an intelligent journaling platform fea
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-![Pranaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranayakhadgi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayakhadgi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ##  Achievements & Recognition
 
 | Achievement | Details | Year |
