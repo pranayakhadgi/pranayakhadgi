@@ -17,14 +17,6 @@ I love shipping projects (1st Place TruHacks 2024, 325+ competitors at HackMidwe
 
 ---
 
-## Currently Learning
-
-**Graphics Stack:** C++ | OpenGL | GLSL | Linear Algebra  
-**Current:** Shaders, rendering pipelines, 3D transformations (LearnOpenGL)  
-**Tools:** GitHub Copilot, Claude.ai (for mathematical reasoning)
-
----
-
 ## Languages & Tools
 
 <table><tr><td valign="top" width="25%">
@@ -55,7 +47,7 @@ I love shipping projects (1st Place TruHacks 2024, 325+ competitors at HackMidwe
 
 ### Graphics & Math  
 [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png' alt='opengl' height='40'>](https://github.com/pranayakhadgi)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='vscode' height='40'>](https://github.com/pranayakhadgi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg' alt='visualstudio' height='40'>](https://github.com/pranayakhadgi)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pranayakhadgi)
 
 </td></tr>
@@ -77,23 +69,19 @@ Browser-based immersive campus tour with WebGL rendering.
 
 ---
 
-## Achievements & Recognition
+## Impact
 
 - **1st Place** TruHacks 2024 (Beginners)
 - **Top 50** HackMidwest 2025 (325+ participants)
-- **3.77 GPA** | Math Minor | Blue Key Scholarship (2024–2025)
-- **GDSC Treasurer** @ Truman State | Manage ~$2,000 annual budget
-- **Academic Peer Tutor** (Aug 2024 – May 2025) — Taught 12 students Java & OOP
+- **3.77 GPA** | Math Minor | Blue Key Scholarship
+- **GDSC Treasurer** — Managed $2,000+ budget
+- **Peer Tutor** — Taught 12 students Java & OOP
 
 ---
 
 ## Education
 
-**B.S. Computer Science** | *Truman State University*  
-Expected: December 2027 | GPA: 3.77/4.0 | Math Minor
-
-**Relevant Coursework:**  
-Data Structures & Algorithms • Object-Oriented Programming • Calculus I–III • Linear Algebra • Intro Physics
+**B.S. Computer Science** | *Truman State University* | Dec 2027 | GPA: 3.77/4.0 | Math Minor
 
 ---
 
@@ -105,4 +93,13 @@ Data Structures & Algorithms • Object-Oriented Programming • Calculus I–II
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pranayakhadgi)
 
+---
+
+## My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake.svg">
+</picture>
 
