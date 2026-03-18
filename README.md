@@ -1,4 +1,4 @@
-# Pranaya Khadgi Shahi
+
 
 ![Hi, I'm Pranaya, let's connect!](banner.png)
 
