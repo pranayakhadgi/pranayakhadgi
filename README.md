@@ -11,9 +11,6 @@
 
 I build things that solve problems. Passionate about **Graphics Programming**, currently learning C++ and OpenGL—mastering shaders, rendering pipelines, and Linear Algebra from first principles. I love shipping projects (1st Place TruHacks 2024, HackMidwest 2025 Top 50) and preparing for my internship by simulating real-world systems.
 
-**Let's connect!**  
-🔗 [@pranaya-khadgi-shahi](https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/) on LinkedIn  
-🐙 [@pranayakhadgi](https://github.com/pranayakhadgi) on GitHub
 
 ---
 
