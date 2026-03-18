@@ -1,5 +1,7 @@
 # Pranaya Khadgi Shahi
 
+![Hi, I'm Pranaya, let's connect!](banner.png)
+
 **CS Junior (Math Minor) @ Truman State University**  
 **Application Analyst Intern @ DP World Americas**
 
@@ -7,13 +9,11 @@
 
 ## About Me
 
-I build things that solve problems. Passionate about **Graphics Programming**, though I'm just beginning my journey with C++ and OpenGL. Learning shaders, rendering pipelines, and Linear Algebra from first principles—breaking down mathematical concepts with Claude.ai before implementing. No expert yet, but curious and committed.
+I build things that solve problems. Passionate about **Graphics Programming**, currently learning C++ and OpenGL—mastering shaders, rendering pipelines, and Linear Algebra from first principles. I love shipping projects (1st Place TruHacks 2024, HackMidwest 2025 Top 50) and preparing for my internship by simulating real-world systems.
 
-I love shipping projects (1st Place TruHacks 2024, 325+ competitors at HackMidwest 2025) and I'm preparing for my internship by simulating real-world warehouse systems. Beatboxer. Guitar player. Loves lifting.
-
-📧 [pranaya.khadgi99@gmail.com](mailto:pranaya.khadgi99@gmail.com) | 
-🔗 [LinkedIn](https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/) | 
-🐙 [GitHub](https://github.com/pranayakhadgi)
+**Let's connect!**  
+🔗 [@pranaya-khadgi-shahi](https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/) on LinkedIn  
+🐙 [@pranayakhadgi](https://github.com/pranayakhadgi) on GitHub
 
 ---
 
