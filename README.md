@@ -64,7 +64,7 @@ While(!graduated) {
 
 ## Featured Work
 
-### [CogQuiz](https://github.com/pranayakhadgi) — **TruHacks 2026 · 1st Place**
+### [CogQuiz](https://github.com/pranayakhadgi) — **TruHacks 2026**
 AI-powered spaced repetition platform that turns lecture PDFs into quizzes automatically. Implemented the full AI pipeline — PDF ingestion, Gemini 2.5 Flash integration, SM-2 algorithm scheduling, and Google Calendar sync. Deployed on Vercel with Supabase auth and real-time data persistence.
 **Tech:** Next.js · Supabase · Gemini AI · Google Calendar API · Tailwind CSS
 
