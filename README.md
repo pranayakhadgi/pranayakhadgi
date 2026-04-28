@@ -1,7 +1,3 @@
-
-
-![Hi, I'm Pranaya, let's connect!](banner.png)
-
 **CS Junior (Math Minor) @ Truman State University**  
 **Application Analyst Intern @ DP World Americas**
 
