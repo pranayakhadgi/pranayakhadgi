@@ -3,12 +3,12 @@
 **CS Junior · Math Minor @ Truman State University**
 **Application Analyst Intern @ DP World Americas**
 
-
+---
 
 ## About
 
----
 
+```
 While(!graduated) { 
           Wakes up, 
           eats, 
@@ -19,6 +19,7 @@ While(!graduated) {
           goes back to his apartment 
           and sleeps. 
           }
+```
 
 ---
 
