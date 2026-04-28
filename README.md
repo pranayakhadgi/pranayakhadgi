@@ -101,9 +101,9 @@ Browser-based immersive campus tour with WebGL rendering.
 
 ## Connect
 
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg)](mailto:pranaya.khadgi99@gmail.com)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/)
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/pranayakhadgi)
+<a href="mailto:pranaya.khadgi99@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="24"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="24"></a>&nbsp;&nbsp;
+<a href="https://github.com/pranayakhadgi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="24"></a>
 
 ---
 
