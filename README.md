@@ -1,115 +1,137 @@
 # Pranaya Khadgi Shahi
 
-**CS Junior · Math Minor @ Truman State University**  
-**Incoming Application Analyst Intern @ DP World Americas**
+**CS Junior · Math Minor @ Truman State University**
+&nbsp;·&nbsp; **Incoming Application Analyst @ DP World Americas**
 
 ---
 
 ## About
 
-Fullstack dev with a lean toward backend systems and AI pipelines.  
-Currently building an asset management platform for a university org — migrating legacy JS to a React/Node/Postgres stack with semantic search (pgvector), time-range availability logic, and a natural language command interface.  
-Also doing supply chain logistics work at DP World over the summer.
+CS junior at Truman State. Building a production asset management platform using React/Vite, Node, Postgres, pgvector semantic search, and a natural language command interface powered by Groq.  
+
+Starting as an Application Analyst at DP World Americas this summer.
 
 ---
 
-## Languages & Tools
+## Stack
 
 <table><tr><td valign="top" width="25%">
 
-### Languages
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="40">
+**Languages**
+<br>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="36">
 
 </td><td valign="top" width="25%">
 
-### Frontend
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Next.js" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" height="40">
+**Frontend**
+<br>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Next.js" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" height="36">
 
 </td><td valign="top" width="25%">
 
-### Backend & Databases
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png" alt="SQLite" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40">
+**Backend & Data**
+<br>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png" alt="SQLite" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="36">
 
 </td><td valign="top" width="25%">
 
-### Graphics & Systems
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" alt="OpenGL" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40">
+**Graphics & Systems**
+<br>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" alt="OpenGL" height="36">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="36">
 
-</td></tr>
-</table>
+</td></tr></table>
 
 ---
 
-## Featured Work
+## Work
 
-### Campus Club Equipment Tracker *(private, active)*
-Migrating a university org's equipment tracking system from a legacy Vanilla JS/Express monolith to a React (Vite) SPA + Node/Express backend + PostgreSQL.  
-Current focus: replacing exact-string search with pgvector embeddings, time-range overlap queries (`tsrange`) for double-booking prevention, and a `CMD+K` natural language command interface — Groq/Llama 3 parses user intent into a strict JSON payload and executes DB transactions without a chat UI.  
-**Tech:** React · Vite · Node.js · Express · PostgreSQL · pgvector · Groq · Llama 3
+**Asset Management Platform** &nbsp;`private · active`
 
-### [CogQuiz](https://github.com/pranayakhadgi/CogQuiz) — TruHacks 2026
-Turns lecture PDFs into spaced-repetition quizzes. Built the full AI pipeline: PDF ingestion, Gemini 2.5 Flash integration, SM-2 algorithm scheduling, and Google Calendar sync.  
-**Tech:** Next.js · Supabase · Gemini AI · Google Calendar API · Tailwind CSS
+Migrating a university org off a Vanilla JS/Express monolith. React (Vite) SPA, Node/Express API, PostgreSQL. Three ongoing upgrades: pgvector semantic search, `tsrange` overlap queries for availability, and a `CMD+K` NL interface — Groq/Llama 3 parses intent into a JSON payload and hits the DB directly.
 
-### [Memory Garden](https://github.com/pranayakhadgi/Project-Memory-Garden) — HackMidwest 2025
-AI journaling with emotional analysis. Competed among 325+ participants.  
-**Tech:** Node.js · Express · MongoDB · OpenAI GPT-4 · React · JWT
+`React` `Vite` `Node.js` `PostgreSQL` `pgvector` `Groq` `Llama 3`
 
-### [Truman in the Virtual](https://github.com/pranayakhadgi/Truman-in-the-Virtual) — Research
-Browser-based 3D campus tour with WebGL rendering.  
-**Tech:** React 18 · Three.js · Node.js · PostgreSQL · WebGL
+---
 
-→ [See more](https://github.com/pranayakhadgi?tab=repositories)
+**[CogQuiz](https://github.com/pranayakhadgi/CogQuiz)** &nbsp;`TruHacks 2026`
+
+PDF → spaced-repetition quiz pipeline. Handles ingestion, Gemini 2.5 Flash inference, SM-2 scheduling, and Google Calendar sync end-to-end.
+
+`Next.js` `Supabase` `Gemini AI` `Google Calendar API` `Tailwind`
+
+---
+
+**[Memory Garden](https://github.com/pranayakhadgi/Project-Memory-Garden)** &nbsp;`HackMidwest 2025 · Top 50 of 325+`
+
+Journaling with per-entry emotional analysis. JWT auth, GPT-4 integration, MongoDB persistence.
+
+`Node.js` `Express` `MongoDB` `OpenAI GPT-4` `React`
+
+---
+
+**[Truman in the Virtual](https://github.com/pranayakhadgi/Truman-in-the-Virtual)** &nbsp;`Research`
+
+Browser-based 3D campus walkthrough. WebGL rendering, PostgreSQL-backed content layer.
+
+`React 18` `Three.js` `Node.js` `PostgreSQL` `WebGL`
+
+&nbsp;&nbsp;→ [All repositories](https://github.com/pranayakhadgi?tab=repositories)
 
 ---
 
 ## Impact
 
-- 🏆 **1st Place** — TruHacks 2024 (Beginners)
-- **Top 50** — HackMidwest 2025 (325+ participants)
-- **3.77 GPA** · Math Minor · Blue Key Scholarship
-- **GDG Executive Member** (25/26) — Organized campus tech events
-- **GDSC Treasurer** — Managed $2,000+ budget
-- **Peer Tutor** — Taught 12 students Java & OOP
+| | |
+|---|---|
+| 🏆 **1st Place** | TruHacks 2024 — Beginners track |
+| **Top 50** | HackMidwest 2025 — 325+ participants |
+| **3.74 GPA** | Math Minor · Blue Key Scholarship |
+| **GDG Executive** | Organized campus tech events (25/26) |
+| **GDSC Treasurer** | Managed $2,000+ budget |
+| **Peer Tutor** | Java & OOP — 12 students |
 
 ---
 
 ## Education
 
-**B.S. Computer Science** · *Truman State University* · Dec 2027 · GPA: 3.77/4.0 · Math Minor
+**B.S. Computer Science** &nbsp;·&nbsp; *Truman State University* &nbsp;·&nbsp; Dec 2027
+GPA: 3.74 / 4.0 &nbsp;·&nbsp; Math Minor
 
 ---
 
 ## Connect
 
-<a href="mailto:pranaya.khadgi99@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="24"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="24"></a>&nbsp;&nbsp;
-<a href="https://pranayakhadgi-website.vercel.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="Website" height="24"></a>
+[![Email](https://img.shields.io/badge/Email-pranaya.khadgi99%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:pranaya.khadgi99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranaya--khadgi--shahi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/)
+[![Website](https://img.shields.io/badge/Website-pranayakhadgi.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://pranayakhadgi-website.vercel.app/)
 
 ---
 
-## GitHub Stats
+## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayakhadgi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayakhadgi&layout=compact&theme=dark&hide_border=true)
+## Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=pranayakhadgi&theme=tokyonight&border_radius=0)
+
+![Top Languages](https://ghstats.dev/api/langs?username=pranayakhadgi&theme=tokyonight&border_radius=0)
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake.svg">
 </picture>
