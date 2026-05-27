@@ -1,25 +1,15 @@
 # Pranaya Khadgi Shahi
 
-**CS Junior · Math Minor @ Truman State University**
-**Application Analyst Intern @ DP World Americas**
+**CS Junior · Math Minor @ Truman State University**  
+**Incoming Application Analyst Intern @ DP World Americas**
 
 ---
 
 ## About
 
-
-```
-While(!graduated) { 
-          Wakes up, 
-          eats, 
-          goes to college,   
-          codes, 
-          attends club meeting, 
-          goes to gym, 
-          goes back to his apartment 
-          and sleeps. 
-          }
-```
+Fullstack dev with a lean toward backend systems and AI pipelines.  
+Currently building an asset management platform for a university org — migrating legacy JS to a React/Node/Postgres stack with semantic search (pgvector), time-range availability logic, and a natural language command interface.  
+Also doing supply chain logistics work at DP World over the summer.
 
 ---
 
@@ -65,18 +55,22 @@ While(!graduated) {
 
 ## Featured Work
 
-### [CogQuiz](https://github.com/pranayakhadgi) — **TruHacks 2026**
-AI-powered spaced repetition platform that turns lecture PDFs into quizzes automatically. Implemented the full AI pipeline — PDF ingestion, Gemini 2.5 Flash integration, SM-2 algorithm scheduling, and Google Calendar sync. Deployed on Vercel with Supabase auth and real-time data persistence.
+### Campus Club Equipment Tracker *(private, active)*
+Migrating a university org's equipment tracking system from a legacy Vanilla JS/Express monolith to a React (Vite) SPA + Node/Express backend + PostgreSQL.  
+Current focus: replacing exact-string search with pgvector embeddings, time-range overlap queries (`tsrange`) for double-booking prevention, and a `CMD+K` natural language command interface — Groq/Llama 3 parses user intent into a strict JSON payload and executes DB transactions without a chat UI.  
+**Tech:** React · Vite · Node.js · Express · PostgreSQL · pgvector · Groq · Llama 3
+
+### [CogQuiz](https://github.com/pranayakhadgi/CogQuiz) — TruHacks 2026
+Turns lecture PDFs into spaced-repetition quizzes. Built the full AI pipeline: PDF ingestion, Gemini 2.5 Flash integration, SM-2 algorithm scheduling, and Google Calendar sync.  
 **Tech:** Next.js · Supabase · Gemini AI · Google Calendar API · Tailwind CSS
 
-### [Memory Garden](https://github.com/pranayakhadgi/memory-garden) — **HackMidwest 2025**
-AI-powered journaling with emotional analysis. Competed among 325+ participants.
+### [Memory Garden](https://github.com/pranayakhadgi/Project-Memory-Garden) — HackMidwest 2025
+AI journaling with emotional analysis. Competed among 325+ participants.  
 **Tech:** Node.js · Express · MongoDB · OpenAI GPT-4 · React · JWT
 
-### [Truman in the Virtual](https://github.com/pranayakhadgi/truman-virtual) — **3D Campus Tour (Research)**
-Browser-based immersive campus tour with WebGL rendering.
+### [Truman in the Virtual](https://github.com/pranayakhadgi/Truman-in-the-Virtual) — Research
+Browser-based 3D campus tour with WebGL rendering.  
 **Tech:** React 18 · Three.js · Node.js · PostgreSQL · WebGL
-
 
 → [See more](https://github.com/pranayakhadgi?tab=repositories)
 
@@ -103,11 +97,16 @@ Browser-based immersive campus tour with WebGL rendering.
 
 <a href="mailto:pranaya.khadgi99@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="24"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pranaya-khadgi-shahi-b4273b33b/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="24"></a>&nbsp;&nbsp;
-<a href="https://github.com/pranayakhadgi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="24"></a>
+<a href="https://pranayakhadgi-website.vercel.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="Website" height="24"></a>
 
 ---
 
-## GitHub Contributions
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayakhadgi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayakhadgi&layout=compact&theme=dark&hide_border=true)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranayakhadgi/pranayakhadgi/output/github-contribution-grid-snake-dark.svg">
