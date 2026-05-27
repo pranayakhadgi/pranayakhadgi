@@ -1,7 +1,7 @@
 # Pranaya Khadgi Shahi
 
 **CS Junior · Math Minor @ Truman State University**
-&nbsp;·&nbsp; **Incoming Application Analyst @ DP World Americas**
+&nbsp;·&nbsp; **Application Analyst Intern @ DP World Americas**
 
 ---
 
@@ -58,37 +58,15 @@ Starting as an Application Analyst at DP World Americas this summer.
 
 ## Work
 
-**Asset Management Platform** &nbsp;`private · active`
+**Asset Management Platform** `private · active` — React/Vite, Node, Postgres, pgvector semantic search, NL command interface via Groq/Llama 3
 
-Migrating a university org off a Vanilla JS/Express monolith. React (Vite) SPA, Node/Express API, PostgreSQL. Three ongoing upgrades: pgvector semantic search, `tsrange` overlap queries for availability, and a `CMD+K` NL interface — Groq/Llama 3 parses intent into a JSON payload and hits the DB directly.
+**[CogQuiz](https://github.com/pranayakhadgi/CogQuiz)** `TruHacks 2026` — PDF → spaced-repetition pipeline. Gemini 2.5 Flash, SM-2 scheduling, Google Calendar sync
 
-`React` `Vite` `Node.js` `PostgreSQL` `pgvector` `Groq` `Llama 3`
+**[Memory Garden](https://github.com/pranayakhadgi/Project-Memory-Garden)** `HackMidwest 2025 · Top 50/325` — AI journaling with emotional analysis. GPT-4, JWT, MongoDB
 
----
+**[Truman in the Virtual](https://github.com/pranayakhadgi/Truman-in-the-Virtual)** `Research` — Browser-based 3D campus tour. Three.js, WebGL, Postgres
 
-**[CogQuiz](https://github.com/pranayakhadgi/CogQuiz)** &nbsp;`TruHacks 2026`
-
-PDF → spaced-repetition quiz pipeline. Handles ingestion, Gemini 2.5 Flash inference, SM-2 scheduling, and Google Calendar sync end-to-end.
-
-`Next.js` `Supabase` `Gemini AI` `Google Calendar API` `Tailwind`
-
----
-
-**[Memory Garden](https://github.com/pranayakhadgi/Project-Memory-Garden)** &nbsp;`HackMidwest 2025 · Top 50 of 325+`
-
-Journaling with per-entry emotional analysis. JWT auth, GPT-4 integration, MongoDB persistence.
-
-`Node.js` `Express` `MongoDB` `OpenAI GPT-4` `React`
-
----
-
-**[Truman in the Virtual](https://github.com/pranayakhadgi/Truman-in-the-Virtual)** &nbsp;`Research`
-
-Browser-based 3D campus walkthrough. WebGL rendering, PostgreSQL-backed content layer.
-
-`React 18` `Three.js` `Node.js` `PostgreSQL` `WebGL`
-
-&nbsp;&nbsp;→ [All repositories](https://github.com/pranayakhadgi?tab=repositories)
+→ [All repositories](https://github.com/pranayakhadgi?tab=repositories)
 
 ---
 
@@ -119,8 +97,6 @@ GPA: 3.74 / 4.0 &nbsp;·&nbsp; Math Minor
 [![Website](https://img.shields.io/badge/Website-pranayakhadgi.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://pranayakhadgi-website.vercel.app/)
 
 ---
-
-## Stats
 
 ## Stats
 
